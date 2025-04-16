@@ -1,2 +1,2 @@
 # AppliedMathematics_Ordinarydifferentialequation
- 
+ An ordinary differential equation (ODE) is a mathematical equation that relates a function to its derivatives with respect to a single independent variable. It describes how a quantity changes over time or space, depending on the context. ODEs are classified by their order, which is determined by the highest derivative present. They are widely used to model real-world phenomena in physics, biology, engineering, and economics.
